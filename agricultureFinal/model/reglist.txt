@@ -1,0 +1,9 @@
+A-002|111|Sameen Abrar|ana@conda.com|01739274384|dhaka|2022-06-08|Male|Business Management|5||Inventory|IT|Finance
+4292|empty|abraca|ana@conda.com|01739274384|house 13, road 67, khilgaon, dhaka|2022-05-31|Male|Environmental Sciences|12||Technical|Management|Leadership
+9938|123456|No name|samen@ehs.com|12084729038|kalks, nsdjfps, jnfn. jnsadvjn, dhaka|2022-01-10|Female|Biology|19||Data|Leadership|Finance
+9736|mylife|Jahan|Jahan@admin.com|019826482|Uttara, sector 13, lake side road, dhaka, bangladesh|1975-01-17|Male|Marketing|35||Inventory|Technical|IT|Finance
+A-006|alamin123|Mike|mike@admin.com|019827481|AIUB, Kuratoli, Dhaka|1976-05-14|Male|Agriculture|20||Data|Inventory|Finance
+A-007|friends|Monica|monica@admin.com|01728372|Manhatten, New York|1969-10-15|Female|Biology|11||Data|Inventory|Technical|Management|Leadership|IT|Finance
+A-008|changed|Sameen Abrar|zaheen.abrar.1234@gmail.com|01971222447|dhaka|2003-10-05|Male|Chemistry|62||Leadership
+admin123|friends|Janice|sameenabrar13@gmail.com|01739274384|dhaka|2000-04-21|Male|Computer|4||Data|Inventory|Technical|Management|Leadership|IT|Finance
+project|sameen123|Sameen Abrar|sameenabrar@admin.com|01739274384|road#34, Nikunja-2, Khilkhet, Dhaka|2000-04-21|Male|Chemistry|7||Data|Management|Leadership|IT|Finance

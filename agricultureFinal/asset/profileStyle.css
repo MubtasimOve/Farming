@@ -1,0 +1,11 @@
+#editButton
+{
+    /* background-image: url('editicon.png'); */
+    position: relative;
+    float: right;
+}
+#epdiv
+{
+    display: inline-block;
+
+}

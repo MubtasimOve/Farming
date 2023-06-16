@@ -1,0 +1,13 @@
+.highlightdata{
+    background-color: royalblue;
+ }
+ .data:hover{
+     background-color: aquamarine;
+ }
+ 
+ #editSales
+ {
+     /* background-image: url('editicon.png'); */
+     position: relative;
+     float: right;
+ }

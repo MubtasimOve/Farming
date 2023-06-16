@@ -1,0 +1,4 @@
+F-001|Sanders|Farmer|Male|0176827482|sandy@farmer.com|1967-01-10|12 years|7|10000
+F-003|Crawford|Farmer|Female|12345234652|emily@farmer.com|1992-05-10|13 years|5|10000
+F-005|Janice|Farmer|Female|2341234534|zaheen.abrar.1234@gmail.com|2021-10-20|21 years|5|10000
+F-004|Rachel|Farmer|Female|019826732|rachel@farmer.com|1981-06-30|23 years|9|10000

@@ -1,0 +1,12 @@
+A-002|Sameen Abrar||Inventory|IT|Finance
+4292|abraca||Technical|Management|Leadership
+9938|No name||Data|Leadership|Finance
+9736|Jahan||Inventory|Technical|IT|Finance
+A-006|Al Amin||Data|Inventory|Finance
+samadmin|Sameen Abrar||Data|Inventory|Technical|Management|Leadership|IT|Finance
+abraradmin|Abrar Sameen||Data|Inventory|Leadership|Finance
+abraradmin|Abrar||Data|Leadership|Finance
+A-007|Monica||Data|Inventory|Technical|Management|Leadership|IT|Finance
+A-008|Zaheen Abrar||Leadership
+admin123|Sameen Abrar||Data|Inventory|Technical|Management|Leadership|IT|Finance
+project|Sameen Abrar||Data|Management|Leadership|IT|Finance

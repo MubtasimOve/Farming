@@ -1,0 +1,5 @@
+S-001|Sydney|Salesperson|Noakhali|Female|016345103|syd@sales.com|1992-07-24|13 years|Masters|Marketing|30000
+S-003|Rick|Salesperson|Kurigram|Male|016345103|syd@sales.com|1982-04-26|13 years|Masters|Marketing|20000
+S-004|Victor|Salesperson|Sunamganj|Male|017982734|syd@sales.com|1994-06-13|4 years|Bachelors|IPE|30000
+S-007|Ross|Salesperson|New York|Male|908189281|ross@sales.com|1961-06-14|11 years|Masters|Business|30000
+S-009|Mark|Salesperson|Noakhali|Male|019237891|ana@conda.com|2022-07-05|12 years|Bachelors|Business|25000
